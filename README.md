@@ -1,5 +1,7 @@
 # LengthConverter
 
+Converts Inches to CM as well as Miles to Kilometers.
+
 http://localhost:8080/LengthConverter/
 
 ## Video Explanation
